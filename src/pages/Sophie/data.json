@@ -1,0 +1,54 @@
+
+
+{
+    "data" : [
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    ],
+    "preschool": [
+        "Hey, I’m Bella! I’m in preschool, and I love watching cartoons. I swear, I could be in-front of the TV all day long! Only if mommy allowed it.🥺",
+        "My favorite ones are Doraemon and Chhota Bheem. All my friends love these too!",
+        "Bheem is so strong, cool and noble! He defeats monsters so easily! Bheem and his group of friends are the savior of Dholakpur. I wish I could be like him. But I’m a girl, and there are no other girls like Bheem in Dholakpur. Chutki is the only girl in Bheem’s group of friends, and although I love Chutki, she cannot even save herself. I can never be Bheem, and it makes me sad.",
+        "If I cannot be Bheem, maybe I should try to be like Shizuka from Doraemon. She’s so pretty and poised always! I tried to be Shizuka for a week - sweet voice, docility and all elegance - till I grew tired of it. I don’t know how she does it!",
+        "Who should I be like then?"
+    ],
+    "preteen" : [
+        "Hey, long time no see. I'm a preteen now!",
+        "I'm a bit upset though.",
+        "Mommy scolded me today.", 
+        "We were invited to my cousin’s birthday. I was shocked to see my aunt in her room attending an important meeting, while my uncle was cooking and catering to the guests.",
+        "I was worried and said \"I’m sorry you lost your job uncle. I’m sure you’ll find something even better soon!\"",
+        "I don’t know why mommy kept apologizing to him. I was just trying to make him feel better.",
+        "Mommy says doing household work is not just a woman’s job. But isn't that what we see in those soap operas we watch together, mommy?",
+        "I don't get it!"
+    ],
+    "teen" : [
+        "Oh hey! It’s you again.",
+        "I’ve not been doing very well. I can’t bring myself to look in the mirror. I am too fat, too pimply, too short. ",
+        "I see all these pretty girls on social media and everywhere around me, and I feel so….so inadequate. ",
+        "I’ve been topping my math classes, but the media says that is not feminine. They say it’s no use.",
+        "I had such big dreams, but the media says women are not meant to lead. They say ambitions don’t suit girls.",
+        "Am I truly just trying to defy my true nature?",
+        "I’m not beautiful according to them, and my smarts are of no use. I don’t know what to look forward to when I wake up anymore. I don’t know what to live for."
+    ],
+    "young-adult" : [
+        "Ugh! College applications are coming up and I just can’t decide what to choose as my major.",
+        "Can I tell you something? You have to promise to keep it a secret though. I’ve been watching these coding videos and learning about AI. I can even code simple websites now! It’s so fun!",
+        "But I’ve watched  the “IT Crowd”. I know computers are for those geeky guys with perms and glasses, not for girls like me! It’s always the boys - in the movies as well as in real life.",
+        "I would just stick out like a sore thumb. The boys would laugh at me, and the girls would call me a weirdo.",
+        "I'm scared I would have no friends.",
+        "I just wanna follow my passion. I don’t know what to do!"
+    ],
+    "adult" : [
+        "I am an adult now. Can you believe it?...just feels like yesterday, doesn’t it?",
+        "I’m working in an IT company now…finally. It took me too long to get over my insecurities.",
+        "After finishing college, I worked as a babysitter for 3 years. I was too scared to enter the corporate world with all those men ruling there.",
+        "The stereotypes had been too ingrained in me since I was a kid. My capabilities and my job as a woman were cut out for me. The very media I loved to indulge myself in everyday snuffed the life out of my dreams and ambitions.",
+        "It took a lot of courage and countless battles with myself to get where I am today...to let myself dream...once again",
+        "But I'm here now, and I intend to rule!"
+    ]
+
+}

@@ -1,0 +1,23 @@
+.heading {
+    font-weight: 900;
+    font-size: 8em;
+    color: rgb(250, 250, 250);
+    
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1dd6c;
+    /* background: linear-gradient(#FAE4C3, #F9FE00, #E1DD2E); */
+    /* background: linear-gradient(#FAE4C3, #F9FE00, #E1DD2E); */
+    
+    background-image: url(https://i.imgur.com/g3ssElv.png);
+    background-size: cover;
+    
+  }
+  

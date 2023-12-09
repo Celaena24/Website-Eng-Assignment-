@@ -1,0 +1,195 @@
+.tv0{
+    height: 8rem;
+    position: absolute;
+    bottom: 7%;
+    left: 15%; 
+    /* bottom: 3.5rem;
+    left: 8.5rem; */
+}
+
+.tv1{
+    height: 7rem;
+    position: absolute;
+    bottom: 25%;
+    left: 65%;
+}
+.tv2{
+    height: 6rem;
+    position: absolute;
+    bottom: 49%;
+    left: 32%;
+}
+.tv3{
+    height: 4rem;
+    position: absolute;
+    bottom: 65%;
+    left: 55%;
+}
+.flag{
+    height: 2rem;
+    position: absolute;
+    /* top: 5rem;
+    left: 17rem; */
+    top: 15%;
+    left: 41%;
+}
+.preschool{
+    height: 15vh;
+    position: absolute;
+    bottom: 4vh;
+    left: 6vw;
+}
+.preteen{
+    height: 18vh;
+    position: absolute;
+    bottom: 25%;
+    left: 55%;
+}
+.teen{
+    height: 18vh;
+    position: absolute;
+    bottom: 41%;
+    left: 30%;
+}
+.young-adult{
+    height: 18vh;
+    position: absolute;
+    bottom: 59%;
+    left: 61%;
+}
+.adult{
+    height: 18vh;
+    position: absolute;
+    top: 5%;
+    left: 37%;
+}
+
+.card{
+    background-color: rgb(250, 208, 135, 0.8);
+    width: 50%;
+    margin: 15px;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.5rem;
+    
+}
+.btn0{
+    position: absolute;
+    bottom: 28%;
+    left: 19.5%;
+    color:#472126;
+    /* background-color: #472126;
+    color: #ffffff; */
+    /* padding: 3px 12px; */
+    background-color: #fae4c3;
+    
+}
+.btn1{
+    position: absolute;
+    bottom: 45%;
+    left: 68%;
+    font-size: 0.9rem;
+    color:#472126;
+    /* background-color: #fae4c3; */
+}
+.btn2{
+    position: absolute;
+    bottom: 65%;
+    left: 34%;
+    font-size: 0.8rem;
+    color:#472126;
+    background-color: #fae4c3;
+}
+.btn3{
+    position: absolute;
+    bottom: 77%;
+    left: 52%;
+    font-size: 0.7rem;
+    color:#472126;
+    background-color: #fae4c3;
+}
+.btn-1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#472126;
+    background-color: #fae4c3;
+    /* background-color: #ffffff; */
+    font-size: 1.1rem;
+    /* font-weight: 500; */
+    
+    padding: 8px 20px;
+}
+.btn-end{
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    color:#472126;
+    background-color: #fae4c3;
+    
+}
+.modal{
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: space-evenly;
+    justify-content:center;
+    color:#472126;
+    /* min-height: 47vh; */
+    /* margin :auto; */
+    
+    
+}
+.btn0:disabled, .btn1:disabled, .btn2:disabled, .btn3:disabled, .btn-1:disabled, .btn-end:disabled{
+    background-color: rgb(255, 255, 255, 0);
+    /* color: rgb(0, 0, 0) */
+    color: rgb(255, 255, 255, 0);
+}
+.btn0:disabled::after, .btn1:disabled::after, .btn2:disabled::after, .btn3:disabled::after, .btn-1:disabled::after, .btn-end:disabled::after{
+    content: "read first";
+    /* color: #ffffff; */
+    color:#472126;
+    /* position: absolute; */
+    /* padding: 0 0.2rem; */
+    /* padding-bottom: 10rem;  */
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 10% 80%, 0% 100%);
+    /* background-color: #472126; */
+    background-color: #fae4c3;
+    padding: 10px 10px 20px 10px;
+    
+}
+.modalText{
+    margin: 50px;
+    font-size: 1.2rem;
+}
+
+.closeBtn{
+    color: "#ffffff";
+}
+.nextBtn{
+    position: fixed;
+    right: 8%;
+    top: 55%;
+    background-color: #472126;
+    color: #ffffff;
+}
+.nextBtn:disabled{
+    background-color: #945a62;
+}
+.prevBtn{
+    position: fixed;
+    left: 56%;
+    top: 55%;
+    background-color: #472126;
+    color: #ffffff;
+}
+.prevBtn:disabled{
+    background-color: #945a62;
+}

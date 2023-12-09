@@ -1,0 +1,68 @@
+.container{
+    background-image: url(../../assets/home-wallpaper.png);
+    background-color: #F3D740;
+}
+
+.survey{
+    background-color: #ffffff;
+    background-image: url(https://i.imgur.com/S0xzlbW.png);
+    background-position: right;
+    background-size: auto;
+    display: flex;
+    flex-direction: column;
+    width: 55vw;
+    height: 65vh;
+    /* justify-content: space-around; */
+    /* align-items: center; */
+    /* border-radius: 15px; */
+    box-shadow: 10px 10px 10px rgba(178, 94, 94, 0.25);
+    color: #472126;
+}
+
+.borderBox{
+    height: 95%;
+    width: 95%; 
+    border-style: solid;
+    border-color: yellow;
+    border-width: 2px;
+    border-radius: 15px; 
+}
+
+.question{
+    margin: 3%; 
+    font-size: 1.3rem;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    
+    /* margin-top: 2rem; */
+}
+.radioButton{
+    /* margin: 1rem; */
+    margin-right: 1rem;
+    margin-left: 1.5rem;
+    
+}
+.submit{
+    padding: 15px 25px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    padding-top: 6%;
+    
+}
+.button{
+    background-color: #472126;
+    border: None;
+    color: #ffffff;
+    /* border-radius: 5px; */
+    padding: 0.1rem 0.6rem;
+    font-size: 1.1rem;
+}
+.button:disabled{
+    background-color: rgb(151, 98, 105);
+}
+input[type='radio']{
+    accent-color: #472126;
+}
