@@ -43,7 +43,7 @@ const Survey = () => {
           {/* <div className={styles2.borderBox}></div> */}
           <div className={styles2.question} >
             <div>On an average</div> 
-            <div>how many <strong>{current==0? "hours": "days"}</strong> do <strong>{ages[current]}</strong> spend</div>
+            <div>how many hours in a <strong>{current==0? "week": "day"}</strong> do <strong>{ages[current]}</strong> spend</div>
             <div>watching television?</div>
           </div>
         <div>
