@@ -1,3 +1,9 @@
+Open (https://eng112-assignment3.netlify.app/?authuser=0) to view the app in your browser
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
