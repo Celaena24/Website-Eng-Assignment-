@@ -145,7 +145,7 @@ const keyPress = (e) => {
         <img src={flag} className={styles2.flag}></img>
         <Character src={characters[index]} className={styles2[ages[index]]} /> 
         {showButton && (btn === 0 || index >= 4) ? 
-          (<Button onClick={index===-1? start: (event)=>showModal(event, index)} className={styles2[buttons[index+1]]} disabled={false}>{index===-1? "Follow Bella's journey through different phases of her life. Click me!": `${index===4? "Bella's all grown up!": "Click me!"}`}</Button>)
+          (<Button onClick={index===-1? start: (event)=>showModal(event, index)} className={styles2[buttons[index+1]]} disabled={false}>{index===-1? "Follow Bella's journey through different phases of her life. Click me!": `${index===4? "Sophie's all grown up!": "Click me!"}`}</Button>)
           : (<Button onClick={()=>{setIndex((index) => index+1); setModalIndex((modalIndex) => modalIndex+1); setBtn(0); index!==3 ? setModal(false) : setTextIndex(0)}} className={styles2[buttons[index+1]]} disabled={((textIndex == data[ages[modalIndex]].length - 1) || (modal===false)) ? false : true}>Next</Button>)}
 
       </div>
